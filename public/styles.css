@@ -8,6 +8,8 @@
 
   .gifs-wrapper {
     display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .tenor-gif-embed {
     border: 1px solid #fff;
@@ -45,4 +47,8 @@ h1 {
     outline: none;
     border: 1px solid #FE7880;
     color: #FE7880;
+  }
+  .form1{
+      display: flex;
+      justify-content: center;
   }
